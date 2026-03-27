@@ -6,7 +6,7 @@
 <p align="center">
   <img src="images/ecole.png" alt="Logo Mines Saint-Étienne" width="300"/>
 </p>
----
+
 
 ## Objectif
 
@@ -177,3 +177,11 @@ La communication entre le PC et la STM32 utilise le protocole UART avec les para
 | Iterations testées | 100 |
 
 ---
+## Conclusion
+
+Ce projet démontre qu'un modèle de maintenance prédictive peut être déployé efficacement sur un microcontrôleur STM32 avec des ressources très limitées. Les points clés de ce projet sont :
+
+- L'utilisation de **SMOTE** pour corriger le déséquilibre de classes et permettre la détection réelle des pannes
+- La conversion en **TFLite** pour garantir la compatibilité avec STM32Cube.AI
+- Un modèle n'occupant que **3.8% de la Flash** et **0.5% de la RAM** disponibles
+- Une précision de **95%** sur la carte STM32, supérieure à la validation desktop (94.45%)
