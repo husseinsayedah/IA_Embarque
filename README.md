@@ -3,7 +3,9 @@
 **Auteurs :** SAYED AHMAD Hussein & NASR Rock  
 **École :** Mines Saint-Étienne  
 **Année :** 2025-2026
-
+<p align="center">
+  <img src="images/ecole.png" alt="Logo Mines Saint-Étienne" width="300"/>
+</p>
 ---
 
 ## Objectif
