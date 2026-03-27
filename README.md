@@ -175,24 +175,3 @@ La communication entre le PC et la STM32 utilise le protocole UART avec les para
 | Iterations testées | 100 |
 
 ---
-
-## Conclusion
-
-Ce projet démontre qu'un modèle de maintenance prédictive peut être déployé efficacement sur un microcontrôleur STM32 avec des ressources très limitées (77.89 KiB Flash, 3.18 KiB RAM). L'utilisation du format TFLite a permis d'éviter les problèmes de compatibilité rencontrés avec le format .h5, et le rééquilibrage par SMOTE a permis d'obtenir une détection réelle des pannes avec 95% de précision sur la carte embarquée.
-```
-
----
-
-## Étape 4 — Commit
-
-**Title :**
-```
-Add complete project README in French
-```
-
-**Description :**
-```
-Ajout du rapport complet du projet incluant la description du dataset, 
-l'architecture du modèle, les résultats d'entraînement avec et sans 
-SMOTE, l'analyse X-CUBE-AI et les résultats d'inférence sur STM32 
-avec une précision de 95%.
