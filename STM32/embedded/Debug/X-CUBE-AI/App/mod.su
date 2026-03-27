@@ -1,0 +1,13 @@
+../X-CUBE-AI/App/mod.c:443:9:mod_configure_activations	16	static
+../X-CUBE-AI/App/mod.c:480:9:mod_configure_weights	16	static
+../X-CUBE-AI/App/mod.c:525:9:ai_mod_get_info	160	static
+../X-CUBE-AI/App/mod.c:572:9:ai_mod_get_report	160	static
+../X-CUBE-AI/App/mod.c:619:10:ai_mod_get_error	16	static
+../X-CUBE-AI/App/mod.c:626:10:ai_mod_create	24	static
+../X-CUBE-AI/App/mod.c:637:10:ai_mod_create_and_init	88	static
+../X-CUBE-AI/App/mod.c:672:12:ai_mod_inputs_get	16	static
+../X-CUBE-AI/App/mod.c:683:12:ai_mod_outputs_get	16	static
+../X-CUBE-AI/App/mod.c:694:11:ai_mod_destroy	16	static
+../X-CUBE-AI/App/mod.c:701:9:ai_mod_init	24	static
+../X-CUBE-AI/App/mod.c:718:8:ai_mod_run	24	static
+../X-CUBE-AI/App/mod.c:726:8:ai_mod_forward	16	static
