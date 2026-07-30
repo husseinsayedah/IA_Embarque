@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| **Auteurs** | SAYED AHMAD Hussein & NASR Rock |
+| **Auteurs** |  Hussein SAYED AHMAD |
 | **Année** | 2025-2026 |
 
 ---
