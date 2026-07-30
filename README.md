@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| **Auteurs** |  Hussein SAYED AHMAD |
+| **Auteur** |  Hussein SAYED AHMAD |
 | **Année** | 2025-2026 |
 
 ---
